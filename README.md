@@ -25,7 +25,7 @@ The technical file, `TFT_tech.tf`, provides information on the required techniqu
 
 ## LEF Format
 
-We support three lef format design files that are `omni_directional_tech.lef`, `omni_directional_sc_single.lef` and `omni_directional_sc.lef`. `omni_directional_tech.lef` is the technical LEF file that contains the process information of omni-directional IGZO-TFT devices. `omni_directional_sc_single.lef` and `omni_directional_sc.lef` are the cell library LEF files containing the uni-directional (horizontal or vertical), omni-directional macro and standard cell information required for the design, respectively.
+We provide three lef files for the IGZO-TFT technology and standard cell design respectively. `omni_directional_tech.lef` is the technical LEF file that contains the process information of omni-directional IGZO-TFT devices. `omni_directional_sc_single.lef` and `omni_directional_sc.lef` are the cell library LEF files containing the uni-directional (horizontal or vertical), omni-directional macro and standard cell information required for the design, respectively.
 
 ![image](./pic/layout.PNG)
 
