@@ -37,7 +37,7 @@ We provide 3 omnidirectional IGZO-TFT designs in gds format as examples, includi
 
 ## Scripts
 
-To initial our proposed IGZO-TFT-PDK, we provide a script file as reference. Or you can go into your design path, start innovous, and type commands: 
+To initialize our proposed IGZO-TFT-PDK, we provide a script file as reference. Or you can go into your design path, start innovous, and type commands: 
 ```
 set init_gnd_net VSS
 set init_lef_file {omni_directional_tech.lef omni_directional_sc_single.lef omni_directional_sc.lef}
